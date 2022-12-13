@@ -10,12 +10,10 @@ Available platforms: [`Android`][AndroidLink], [`Apple`][AppleLink], [`Windows`]
 - XML is used for configurations.
 - Google analytics for the application insights.
 - AdMod and various other providers for revenue and monetization
-
 ### ✨Description✨
 The Preschool Learning Games app brings your toddlers👶 a fun and educational📚 way to help with the development of their fine motor skills and hand-eye coordination.
 
 Children have access to a multitude of free games and activities to work on their understanding of Alphabets, Numbers, Colors & Shapes. With our online visual learning games, a child’s kinesthetic learning process is developed much faster.
-
 ### ✨Top Features✨
 📍 25+ fun free interactive games for toddlers and preschoolers to give them an early kick start towards education.  
 📍 Beautifully designed educational activities & games with colorful and interesting cartoon characters for the kids.  
