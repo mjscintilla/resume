@@ -17,7 +17,7 @@ The Preschool Learning Games app brings your toddlers👶 a fun and educational�
 Children have access to a multitude of free games and activities to work on their understanding of Alphabets, Numbers, Colors & Shapes. With our online visual learning games, a child’s kinesthetic learning process is developed much faster.
 
 ### ✨Top Features✨
-📍 25+ fun free interactive games for toddlers and preschoolers to give them an early kick start towards education.
+📍 25+ fun free interactive games for toddlers and preschoolers to give them an early kick start towards education.  
 📍 Beautifully designed educational activities & games with colorful and interesting cartoon characters for the kids.
 📍 Great sound effects and awesome animation to grasp the attention of the kids.
 📍 Helps the children in learning alphabets, numbers, colors, etc while playing games.
