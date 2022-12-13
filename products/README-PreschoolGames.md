@@ -40,7 +40,7 @@ Children have access to a multitude of free games and activities to work on thei
 - Kids educational games should be made in such a way that children are constantly engaged and provided with rewards to boost their spirit. This is how we design each of our preschool educational games on this app.  
 - With colorful pictures, captivating animation, and enchanting sound effects, young children will love every activity this kids learning app has to offer. They will be learning and playing at the same time through the fun learning activities.  
 - If you are parents or teachers looking for interactive learning games for your kids or students aged 2 – 6, Preschool Learning Games for kids is the  perfect app for children, which enables many free learning games for toddlers.
-# ❈ Screenshots
+### ❈ Screenshots
 |Screenshot 1|Screenshot 2| Screenshot 3|
 |:-:|:-:|:-:|
 |![screenshot1][Screenshot1]|![screenshot2][Screenshot2]|![screenshot3][Screenshot3]|
