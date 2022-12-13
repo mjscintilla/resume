@@ -1,8 +1,8 @@
-[![Kids Preschool Learning Games](https://www.greysprings.com/images/icons/preschoolgames_icon.png)][AndroidLink]
-# Kids Preschool Learning games
+[![Kids Preschool Learning Games][AppIconLink]][AndroidLink]
+### ✨Kids Preschool Learning games✨
 Available platforms: [`Android`][AndroidLink], [`Apple`][AppleLink], [`Windows`][WindowsLink], [`AMAZON`][AmazonLink]
-`Please click on the link for more details`  
-## Languages and tools used:
+<sub>*Please click on the link for more details*</sub>
+### ✨Languages and tools used✨
 - C++ and cocos2d-x platform.
 - 95% of the code written once and deployed on all the supported platforms (android, iOS, windows phone, Windows WinRT, samsung, amazon and many others). 
 - Android and iOS for development of native features like in-app purchases and ad providers integration.
@@ -11,46 +11,61 @@ Available platforms: [`Android`][AndroidLink], [`Apple`][AppleLink], [`Windows`]
 - Google analytics for the application insights.
 - AdMod and various other providers for revenue and monetization
 
-# Description
-Learning puzzle activities for kindergarten and preschool children to teach abc, Counting, Colors, Shapes. The preschool games are great fun and education for toddlers as they enter kindergarten as KINESTHETIC Learners​ (Age 2-6 yrs). (Appreciate touch/ feel/ experience as modes of communication).
+### ✨Description✨
+The Preschool Learning Games app brings your toddlers👶 a fun and educational📚 way to help with the development of their fine motor skills and hand-eye coordination.
 
-A perfect app designed especially for kids (2-6 age group) to make them learn and develop holistically. Pack of 17 high quality kids games at a single place, with enticing rewards, keeps your kid amused for hours. The 17 colorful educational games aim to lay the groundwork for various skills development, such as spatial reasoning, visual perception, recognition and creativity.
+Children have access to a multitude of free games and activities to work on their understanding of Alphabets, Numbers, Colors & Shapes. With our online visual learning games, a child’s kinesthetic learning process is developed much faster.
 
-Different sections such as alphabets, numbers, colors, shapes, puzzles and painting touch on the elementary preschool basics. The games encourage kids to play at their own pace. No winning and no losing keep the kid enchanted with the experience of the game. Rewards and appreciation earned at the end of each game boost the kid’s morale. Adorable stickers can be collected in a box after scoring enough points.
+### ✨Top Features✨
+📍 25+ fun free interactive games for toddlers and preschoolers to give them an early kick start towards education.
+📍 Beautifully designed educational activities & games with colorful and interesting cartoon characters for the kids.
+📍 Great sound effects and awesome animation to grasp the attention of the kids.
+📍 Helps the children in learning alphabets, numbers, colors, etc while playing games.
+📍 Visual learning games & activities to help children with developing their motor skills and hand-eye coordination.
+📍 Interactive, engaging, and fun educational games for toddlers and preschoolers from ages 2 to 6.
+📍 Intuitive touch control facilities specially designed for Pre-k and kindergarten kids.
+📍 Kids get a chance to win stickers at the end of each game to keep them motivated.
+📍Our “Quiz Time” will test your little ones progress through a fun and engaging way by letting them play a mixture of all our games!
 
-# Features
-- 17 colorful & engaging kids games designed to provide preschool learning precepts
-- Covers kids games in categories such as Numbers, Alphabets, Shapes, Sizes and Colors
-- A common playground for randomly playing through all the games
-- Easy and intuitive instructions for the kids
-- Stickers at the end of each game
-- Amazing audio effects with attractive animations
+###🎲Games & Activities:🎲
+📍“Fill The Colors” game for kids with over 80+ coloring pages to keep them amused and entertained.
+📍”Space Gnomes” helps children choose the correct Alphabet or Number with its funny gnomes floating around the screen
+📍”Match The Shadows” allows toddlers to work on their visual learning by matching the correct shapes to their shadows
+📍 Find “Tricky Maze” game to keep the children interested & engaged while reinforcing alphabets.
+📍”Learn To Trace” lets children practice their alphabets and numbers by tracing the shape allowing them to work on their motor skills.
+📍”Make Your Own Car” has kids building their own car using different parts to help them recognize different shapes.
+📍”In Hide and Seek” you toddler has to find our friendly monkeys and elves to help them with their memory.
+📍In the “Music Time” game, the kids get access to lots of rhymes. Drums, Piano, and Xylophone are also provided for the kid’s enjoyment. It also comes with the sounds of various animals like elephant, dog, tiger, etc.
+📍"Scratch to Reveal" is a fun and interactive way for preschoolers to reveal funny hidden characters with finger movements.
+📍Plenty more educational and visually colourful games and activities to keep your children
 
-# List of Games
-- Match the shadow
-- Count 123
-- Scratch to Reveal
-- Cow Mania
-- Hungry Lizzy
-- Tricky maze
-- Hide N Seek
-- Fill the Colors
-- Sort it Out
-- Jigsaw Puzzle
-- Odd one out
-- Bingo fun
-- Missing objects
-- Find odd items
-- Spot the difference
-- Learn to Trace
+###🎯Importance of Interactive Learning Games For Toddlers & Kids🎯
+📍Many experts believe that fun and interactive learning activities help in the kinesthetic development of toddlers and pre-k children.
+📍Kids educational games should be made in such a way that children are constantly engaged and provided with rewards to boost their spirit. This is how we design each of our preschool educational games on this app.
+📍With colorful pictures, captivating animation, and enchanting sound effects, young children will love every activity this kids learning app has to offer. They will be learning and playing at the same time through the fun learning activities.
+📍If you are parents or teachers looking for interactive learning games for your kids or students aged 2 – 6, Preschool Learning Games for kids is the 
 
 # Screenshots
-[![Kids Preschool Learning Games](https://play-lh.googleusercontent.com/2jU5xGn06tq7WQOQmHAgX6JLp-5VHD61NQG7tl6lA3W6tjfQyMJIG2W9b923o4VZRyi7=s250-rw)](https://play.google.com/store/apps/details?id=com.greysprings.kindergarten8)
 |Screenshot 1|Screenshot 2| Screenshot 3|
 |:-:|:-:|:-:|
-|![First Image](https://images.pexels.com/photos/585759/pexels-photo-585759.jpeg?h=750&w=1260)|![Second Image](https://images.pexels.com/photos/1335115/pexels-photo-1335115.jpeg?h=750&w=1260)|![Second Image](https://images.pexels.com/photos/1335115/pexels-photo-1335115.jpeg?h=750&w=1260)|
+|![screenshot1][Screenshot1]|![screenshot2][Screenshot2]|![screenshot3][Screenshot3]|
 
+|Screenshot 4|Screenshot 5| Screenshot 6|
+|:-:|:-:|:-:|
+|![screenshot4][Screenshot4]|![screenshot5][Screenshot5]|![screenshot6][Screenshot6]|
+
+
+
+<!-- Links -->
+[AppIconLink]: https://www.greysprings.com/images/icons/preschoolgames_icon.png "App icon"
 [AndroidLink]: https://play.google.com/store/apps/details?id=com.greysprings.games "Android link"
 [AppleLink]: https://apps.apple.com/us/app/preschool-learning-games-kids/id726944785 "Apple Link"
 [WindowsLink]: https://www.microsoft.com/en-us/p/kids-preschool-learning-games/9wzdncrdcmmn?rtc=1&activetab=pivot:overviewtab "Windows Link"
 [AmazonLink]: http://www.amazon.com/Kids-Preschool-Games-Kindergarten-Activities/dp/B00GSJ6ZKG "Amazon Link"
+
+[Screenshot1]: https://play-lh.googleusercontent.com/3MS1fhtLNDiBdau372zNCcFKsZoWziASQj-DzhhCO-xjcEw3l_Ly6kntRuI_4qFpTA=w2560-h1440-rw "Screenshot 1"
+[Screenshot2]: https://play-lh.googleusercontent.com/GuKN-P9tM4m-F0gFnrmbcmNT2b4HvFOG397d2mOwZCQ4VKgw0yL7Vtf_QgxxuMidFTo=w2560-h1440-rw "Screenshot 2"
+[Screenshot3]: https://play-lh.googleusercontent.com/UkFb4F-s8_n5uKDqv0Fhsld4G_K0pXKrGPTgpIAFBEFAQR0lm_fjkcWXqzpaY5vu27E=w2560-h1440-rw "Screenshot 3"
+[Screenshot4]: https://play-lh.googleusercontent.com/RolfnPq78hASxO2Ieb_x4T5sAqNyn1T283IJZBiFqHri2jy0NQh1BezXL_OLbdnS_mo=w2560-h1440-rw "Screenshot 4"
+[Screenshot5]: https://play-lh.googleusercontent.com/gQIROqBo_mX8t-TL1UiGdg7P3JsOGCOlx6r7UbDGHKgH0NtEmy6IypFWteUY6TGN-Dw=w2560-h1440-rw "Screenshot 5"
+[Screenshot6]: https://play-lh.googleusercontent.com/ajiQDVzY5emfsPlPFv5BohuVYOOSzHAjXIPzDsW0Ujef46apE4P322lprK1qYG_KHy3K=w2560-h1440-rw "Screenshot 6"
